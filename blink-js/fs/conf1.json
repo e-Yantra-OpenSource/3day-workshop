@@ -1,0 +1,15 @@
+{
+  "device": {
+    "id": "esp_32_XXX"
+  },
+  "wifi": {
+    "sta": {
+      "enable": true,
+      "ssid": "xxxxx",
+      "pass": "xxxxx"
+    },
+    "ap": {
+      "enable": false
+    }
+  }
+}

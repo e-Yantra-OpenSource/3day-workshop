@@ -1,0 +1,858 @@
+Handling lib "rpc-service-fs"...
+Handling lib "rpc-service-config"...
+Handling Success, built blink-js/esp32 version 1.0 (20190208-102700).
+Firmware saved to C:\Users\mos\IoT\MongooseOS\blink-js\build\fw.zip
+c-service-config"...
+mjs: Does not exist, cloning from "https://github.com/mongoose-os-libs/mjs"...
+Handling lib "rpc-uart"...
+rpc-service-fs: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-fs"...
+Handling lib "ca-bundle"...
+Handling lib "core"...
+rpc-uart: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-uart"...
+zz_boards: Does not exist, cloning from "https://github.com/mongoose-os-libs/boards"...
+ca-bundle: Does not exist, cloning from "https://github.com/mongoose-os-libs/ca-bundle"...
+core: Does not exist, cloning from "https://github.com/mongoose-os-libs/core"...
+zz_boards: Checking out 2.11.0...
+zz_boards: Done, hash 94082c290df35a92b26a5247f0b3dce8d36707e0
+zz_boards: Hash is updated:  -> 94082c290df35a92b26a5247f0b3dce8d36707e0
+zz_boards: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/boards"
+core: Checking out 2.11.0...
+core: Done, hash 59c02b9a5039803b261a1b0e58079678ff53a3b1
+core: Hash is updated:  -> 59c02b9a5039803b261a1b0e58079678ff53a3b1
+core: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core"
+ca-bundle: Checking out 2.11.0...
+ca-bundle: Done, hash d5a470b260e3485660ffed6b5b1c7c961bd2b88c
+ca-bundle: Hash is updated:  -> d5a470b260e3485660ffed6b5b1c7c961bd2b88c
+ca-bundle: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/ca-bundle"
+mjs: Checking out 2.11.0...
+mjs: Done, hash ce86d41dc6b5b071aef445459c3b1085d9447456
+mjs: Hash is updated:  -> ce86d41dc6b5b071aef445459c3b1085d9447456
+mjs: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs"
+rpc-service-config: Checking out 2.11.0...
+rpc-service-config: Done, hash 8ceacef143f63104bf6b2ee2842358edf04bcce0
+rpc-service-config: Hash is updated:  -> 8ceacef143f63104bf6b2ee2842358edf04bcce0
+rpc-service-config: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config"
+rpc-service-fs: Checking out 2.11.0...
+rpc-service-fs: Done, hash d51b3684c361cd0e5ebdfe456b6dacaeae17155e
+rpc-service-fs: Hash is updated:  -> d51b3684c361cd0e5ebdfe456b6dacaeae17155e
+rpc-service-fs: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs"
+rpc-uart: Checking out 2.11.0...
+rpc-uart: Done, hash 691c19480613c8586e800dda067ea9bc1d311b6d
+rpc-uart: Hash is updated:  -> 691c19480613c8586e800dda067ea9bc1d311b6d
+rpc-uart: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart"
+Handling lib "mongoose"...
+Handling lib "vfs-fs-lfs"...
+Handling lib "vfs-fs-spiffs"...
+mongoose: Does not exist, cloning from "https://github.com/mongoose-os-libs/mongoose"...
+vfs-fs-lfs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-fs-spiffs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+vfs-fs-spiffs: Checking out 2.11.0...
+vfs-fs-lfs: Checking out 2.11.0...
+vfs-fs-spiffs: Done, hash 17bc38527936dd8b5e7c38e8fa96a91c1a9d82fc
+vfs-fs-spiffs: Hash is updated:  -> 17bc38527936dd8b5e7c38e8fa96a91c1a9d82fc
+vfs-fs-spiffs: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs"
+vfs-fs-lfs: Done, hash d4659010ad2e635e85b128dfe59d3d341e3b6aa2
+vfs-fs-lfs: Hash is updated:  -> d4659010ad2e635e85b128dfe59d3d341e3b6aa2
+vfs-fs-lfs: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs"
+mongoose: Checking out 2.11.0...
+mongoose: Done, hash 2fc5106f605eeec0817935647ca1d845958ffcc4
+mongoose: Hash is updated:  -> 2fc5106f605eeec0817935647ca1d845958ffcc4
+mongoose: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mongoose"
+Handling lib "rpc-common"...
+rpc-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-common"...
+rpc-common: Checking out 2.11.0...
+rpc-common: Done, hash a20f1fa465aa440884fd67cf1fe9d66434829717
+rpc-common: Hash is updated:  -> a20f1fa465aa440884fd67cf1fe9d66434829717
+rpc-common: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common"
+Handling lib "vfs-common"...
+vfs-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-common"...
+vfs-common: Checking out 2.11.0...
+vfs-common: Done, hash 39eacd34462423ae67e2333612635499fc48e7dc
+vfs-common: Hash is updated:  -> 39eacd34462423ae67e2333612635499fc48e7dc
+vfs-common: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common"
+Handling lib "mbedtls"...
+mbedtls: Does not exist, cloning from "https://github.com/mongoose-os-libs/mbedtls"...
+mbedtls: Checking out 2.11.0...
+mbedtls: Done, hash a7f78627ce516675b9b3b0f3c86970b1981e4c0f
+mbedtls: Hash is updated:  -> a7f78627ce516675b9b3b0f3c86970b1981e4c0f
+mbedtls: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls"
+Handling lib "atca"...
+atca: Does not exist, cloning from "https://github.com/mongoose-os-libs/atca"...
+atca: Checking out 2.11.0...
+atca: Done, hash feaaa86656be4451b27325ea7b95346d017fc74e
+atca: Hash is updated:  -> feaaa86656be4451b27325ea7b95346d017fc74e
+atca: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca"
+Handling lib "i2c"...
+i2c: Does not exist, cloning from "https://github.com/mongoose-os-libs/i2c"...
+i2c: Checking out 2.11.0...
+i2c: Done, hash 484728e39116c639efdc38433cacc5bbfe43514b
+i2c: Hash is updated:  -> 484728e39116c639efdc38433cacc5bbfe43514b
+i2c: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c"
+Handling lib "wifi"...
+wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/wifi"...
+wifi: Checking out 2.11.0...
+wifi: Done, hash 8e6147f50265feec0250b30be7bcb0f3b1ef456a
+wifi: Hash is updated:  -> 8e6147f50265feec0250b30be7bcb0f3b1ef456a
+wifi: Prepared local dir: "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi"
+The flag --module is not given for the module "mjs_module", going to use the repository
+mjs_module: Does not exist, cloning from "https://github.com/cesanta/mjs"...
+mjs_module: Checking out 2.11.0...
+mjs_module: Done, hash 3f77ca59701628b7022776d4f8f547993b2cd358
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Does not exist, cloning from "https://github.com/cesanta/mongoose-os"...
+mongoose-os: Checking out 2.11.0...
+mongoose-os: Done, hash 640ebcb65829a7925e39bc80278de15ffd55c1f2
+Successfully fetched prebuilt binary for "mbedtls" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/libmbedtls-esp32-2.11.0.a"
+Successfully fetched prebuilt binary for "mongoose" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/libmongoose-esp32-2.11.0.a"
+Sources: [/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/src/main.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/mgos_deps_init.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src/mgos_i2c_master.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src/esp32/esp32_i2c_master.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/src/mgos_atca.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/atca_cfgs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/atca_command.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/atca_device.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/atca_iface.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/basic/atca_basic.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/host/atca_host.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/mgos_vfs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/mgos_vfs_dev.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/mgos_vfs_internal.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32/esp32_fs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32/esp32_fs_crypt.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32/esp32_vfs_dev_partition.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/littlefs/lfs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/littlefs/lfs_util.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/src/mgos_core.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/src/mos_mjs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/src/esp32_mjs.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src/mg_rpc.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src/mg_rpc_channel.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src/mg_rpc_channel_http.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src/mgos_rpc.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/src/mgos_service_config.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/src/mgos_service_filesystem.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/src/mgos_rpc_channel_uart.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/src/mgos_wifi.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/src/mjs_wifi.c /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/src/esp32_wifi.c]
+Include dirs: [/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include/esp32 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/mbedtls/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include/esp32 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mongoose/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/spiffs /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/esp32 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/include/esp32 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/include /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/include]
+Binary libs: [/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/libmbedtls-esp32-2.11.0.a /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/libmongoose-esp32-2.11.0.a]
+Building...
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675" to "/app"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mongoose-os" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mongoose-os"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src/esp32" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src/esp32"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/basic" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/basic"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/crypto" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/crypto"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/hal" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/hal"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/host" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/host"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/littlefs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/littlefs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/src" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/src"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include/esp32" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include/esp32"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/mbedtls/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/mbedtls/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include/esp32" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include/esp32"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mongoose/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mongoose/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/spiffs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/esp32" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/esp32"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/include" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/include"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/ca-bundle/fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/ca-bundle/fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/mjs_fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/mjs_fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/mjs_fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/mjs_fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/mjs_fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/mjs_fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs"
+mount from "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen" to "/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen"
+Docker arguments: run --name mos_build_2019-02-08T10-26-43-00_1069718405159753952 --rm -i -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/mjs_fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/mjs_fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mongoose-os:/mongoose-os -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/basic:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/basic -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/host:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/host -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/src/esp32 -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/mjs_fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/mjs_fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src/esp32:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/src/esp32 -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/hal:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/hal -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/core/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-uart/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mongoose-os:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mongoose-os -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/mjs_fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/mjs_fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/src/spiffs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/mbedtls/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/mbedtls/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/ca-bundle/fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/ca-bundle/fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-fs/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mongoose/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mongoose/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-service-config/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/crypto:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/atca/cryptoauthlib/lib/crypto -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675:/app -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/littlefs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/src/littlefs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include/esp32:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mbedtls/include/esp32 -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/esp32:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/esp32 -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/spiffs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-spiffs/include/spiffs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/src:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/esp32/src -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include/esp32:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-common/include/esp32 -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/vfs-fs-lfs/include -v /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/include:/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/include --user 0:0 docker.io/mgos/esp32-build:3.2-r1 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/mongoose-os/fw/platforms/esp32/Makefile.build' 'all' 'MGOS_VARS_FILE=/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/vars.mk'
+make: Entering directory '/app'
+/mongoose-os/fw/platforms/esp32/Makefile.build:185: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:76: warning: ignoring old recipe for target 'defconfig'
+/mongoose-os/fw/platforms/esp32/Makefile.build:185: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:63: warning: ignoring old recipe for target 'menuconfig'
+/mongoose-os/fw/platforms/esp32/Makefile.build:220: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:60: warning: ignoring old recipe for target 'clean'
+GENCONFIG
+#
+# configuration written to /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/sdkconfig
+#
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spiffs'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/smartconfig_ack'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/mosapp'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/tcpip_adapter'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spiffs'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/mosapp'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/tcpip_adapter'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/smartconfig_ack'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/partition_table'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/micro-ecc'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/partition_table'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/log'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/micro-ecc'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/log'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_ringbuf'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esptool_py'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esptool_py'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_adc_cal'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_ringbuf'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_adc_cal'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_update'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_update'
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace'
+/mongoose-os/fw/platforms/esp32/Makefile.build:220: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:60: warning: ignoring old recipe for target 'clean'
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_update'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_adc_cal'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/spi_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_update/esp_ota_ops.o
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx/cxx_guards.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_adc_cal/esp_adc_cal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace/app_trace_util.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/bootloader_flash.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/flash_qio_mode.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_adc_cal/libesp_adc_cal.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_adc_cal'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace/host_file_io.o
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event/default_event_loop.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_update/libapp_update.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_update'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/efuse.o
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32'
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_ringbuf'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_ringbuf/ringbuf.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/panic.o
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/main'
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/main'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace/app_trace.o
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/micro-ecc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/bootloader_utility.o
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/micro-ecc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/spi_master.o
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/spi_flash'
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/log'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event/esp_event.o
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/log'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace/gcov/gcov_rtio.o
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/esptool_py'
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/esptool_py'
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace/libapp_trace.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/app_trace'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/stack_check.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event/esp_event_private.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/reset_reason.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/bootloader_common.o
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx/cxx_exception_stubs.o
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/event_default_handlers.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_flash.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet/emac_dev.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_ringbuf/libesp_ringbuf.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_ringbuf'
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event/libesp_event.a
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/flash_qio_mode.o
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp_event'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/expat/expat/lib/loadlibrary.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx/libcxx.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/cxx'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_intr.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/secure_boot.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/expat/expat/lib/xmltok_ns.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet/emac_main.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/expat/expat/lib/xmltok.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/efuse.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/queue.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sigmadelta.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/bootloader_clock.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/uart.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/task_wdt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/secure_boot_signatures.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sdspi_transaction.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_utility.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/flash_partitions.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sdio_slave.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/esp_image_format.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/sleep_modes.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/croutine.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/list.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/bootloader_sha.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/secure_boot.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet/eth_phy/phy_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/flash_encrypt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet/eth_phy/phy_lan8720.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/dbg_stubs.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/port.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_clock.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/spiram.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/src/bootloader_random.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/secure_boot_signatures.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet/eth_phy/phy_tlk110.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/i2s.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/cpu_start.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/flash_partitions.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/event_groups.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support/libbootloader_support.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader_support'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap/heap_caps_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/periph_ctrl.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet/libethernet.a
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/esp_image_format.o
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ethernet'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/log'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/log/log.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/tasks.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap/heap_caps.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/ledc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/cache_sram_mmu.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/gdbstub.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_sha.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/log/liblog.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/log'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/flash_encrypt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap/multi_heap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/src/bootloader_random.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap/heap_trace.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/crosscore_int.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support/libbootloader_support.a
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader_support'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/log'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/log/log.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sdspi_host.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/phy_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/pm_trace.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/gpio.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/lib_printf.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/log/liblog.a
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/log'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/spi_flash'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/spi_flash/spi_flash_rom_patch.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap/libheap.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/heap'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/apps/dhcpserver/dhcpserver.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/wifi_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/timers.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/FreeRTOS-openocd.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/esp_timer_esp32.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_overlay_os_hook.o
+AS /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_intr_asm.o
+AS /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_context.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/spi_flash/libspi_flash.a
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/micro-ecc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/micro-ecc/micro-ecc/uECC.o
+AS /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_vector_defaults.o
+AS /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/xtensa_vectors.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/timer.o
+AS /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/portasm.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/pcnt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/clk.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/spiram_psram.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos/libfreertos.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/freertos'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/micro-ecc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/micro-ecc/micro-ecc/uECC.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/freertos_hooks.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/apps/ping/ping.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/apps/ping/esp_ping.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/expat/expat/lib/xmlparse.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/cache_err_int.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/ipc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sdspi_crc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/rmt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/netdb.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/mcpwm.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/intr_alloc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/wifi_os_adapter.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/api_lib.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/micro-ecc/libmicro-ecc.a
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/soc_memory_layout.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/ets_timer_legacy.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_pm.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/core_dump.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/cpu_util.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/micro-ecc/libmicro-ecc.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/micro-ecc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/sdmmc_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/coexist.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/fast_crypto_ops.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/netifapi.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_wdt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/sdio_slave_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/pm_locks.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sdmmc_transaction.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/can.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/tcpip.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/spi_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/spi_slave.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/event_loop.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_clk_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/gpio_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_sleep.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/netbuf.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/pm_esp32.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/esp_err_to_name.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/sdmmc_host.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_time.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/esp32/rtc_clk.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/err.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/src//memory_layout_utils.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/i2c.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/hw_random.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/esp_timer.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/dport_access.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/esp_himem.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/api_msg.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/system_api.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/rtc_module.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc/libsoc.a
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/api/sockets.o
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/soc'
+make[2]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/main'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/main/bootloader_start.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/brownout.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/main/libmain.a
+make[2]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/main'
+LD /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader.elf
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/int_wdt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/restore.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/hwcrypto/sha.o
+esptool.py v2.6-beta1
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/apps/sntp/sntp.o
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/time.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/hwcrypto/aes.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/mem.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/inet_chksum.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/reent_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/memp.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/termios.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/syscalls.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/sys.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/syscall_table.o
+AS /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/dport_panic_highint_hdl.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32/libesp32.a
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/tcp.o
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/esp32'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash'
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_types.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/expat/expat/lib/xmlrole.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/expat/expat/lib/xmltok_impl.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/locks.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/timeouts.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/random.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/pthread.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/select.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver/libdriver.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/driver'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread/pthread_local_storage.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread/pthread_cond_var.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/dns.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib/libnewlib.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/newlib'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ip.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread/pthread.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat/libexpat.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/expat'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc'
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_ops.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/soc_memory_layout.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_pm.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/raw.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_periph.o
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash/flash_mmap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash/partition.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/cpu_util.o
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_page.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/sdmmc_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_wdt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash/spi_flash_rom_patch.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/tcp_in.o
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_item_hash_list.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread/libpthread.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/pthread'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/smartconfig_ack'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/smartconfig_ack/smartconfig_ack.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/pbuf.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/netif.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/sdio_slave_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_init.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/smartconfig_ack/libsmartconfig_ack.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/smartconfig_ack'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/tcpip_adapter'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/tcpip_adapter/tcpip_adapter_lwip.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash/cache_utils.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/spi_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_clk_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash/flash_ops.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/stats.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/def.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/gpio_periph.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_sleep.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_time.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/udp.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/esp32/rtc_clk.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash/libspi_flash.a
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/src//memory_layout_utils.o
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spi_flash'
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_encr.o
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_pagemanager.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/tcp_out.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/ip4_frag.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/tcpip_adapter/libtcpip_adapter.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/tcpip_adapter'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs/vfs_uart.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/dhcp.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc/libsoc.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/soc'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/etharp.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/ip4_addr.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/igmp.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/ip4.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/autoip.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs/vfs.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv4/icmp.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/ip6_frag.o
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module/eri.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/dhcp6.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module/trax.o
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/mosapp'
+  GEN   /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/mgos_config.c
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module/libxtensa-debug-module.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spiffs'
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spiffs/libspiffs.a
+  MKDIR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/spiffs'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/inet6.o
+  MKDIR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/fw
+Building partitions from /mongoose-os/fw/platforms/esp32/src/partitions_mgos.csv...
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_storage.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/sha1.o
+  GEN   /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/mgos_ro_vars.c
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/ip6_addr.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs/libvfs.a
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/vfs'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/des-internal.o
+CC esp32_nsleep100.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+  GEN   /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/ffi_exports.c
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/ip6.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/nd6.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/mld6.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/ethip6.o
+  CC mgos_debug.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/core/ipv6/icmp6.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+  CC mgos_net.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/netif/slipif.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/netif/ethernet.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/netif/lowpan6.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/lwip/src/netif/ethernetif.o
+  CC mgos_bitbang.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/port/esp32/vfs_lwip.o
+  CC mgos_config_util.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/port/esp32/freertos/sys_arch.o
+  CC mgos_core_dump.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/port/esp32/netif/wlanif.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/md5.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/port/esp32/netif/dhcp_state.o
+  CC mgos_dlsym.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+  CC mgos_event.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/port/esp32/netif/ethernetif.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/port/esp32/debug/lwip_debug.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/bignum.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+  CC mgos_hal_freertos.o
+CXX /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/src/nvs_api.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/port/os_xtensa.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-wrap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256-internal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-cbc.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip/liblwip.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/lwip'
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-unwrap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-modexp.o
+  CC mgos_gpio.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-cipher.o
+  CC mgos_init.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/mschapv2.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls.o
+  CC mgos_mmap_esp.o
+  CC mgos_sys_config.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_ttls.o
+  CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/mgos_config.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_mschapv2.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/chap.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap_common.o
+  CC mgos_ro_vars.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/x509v3.o
+  CC mgos_file_utils.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_cred.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_read.o
+  CC mgos_hw_timers.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/rsa.o
+  CC mgos_system.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/pkcs8.o
+  CC mgos_time.o
+  CC mgos_timers.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/asn1.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_read.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_write.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/pkcs1.o
+  CC mgos_uart.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash/libnvs_flash.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/nvs_flash'
+  CC mgos_utils.o
+  CC esp32_crypto.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/pkcs5.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_record.o
+  CC esp32_debug.o
+  CC esp32_exc.o
+  CC esp32_gpio.o
+  CC esp32_fs_crypt.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/bignum.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_write.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/tls/tls_internal.o
+  CC esp32_hw_timers.o
+  CC esp32_hal.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/utils/base64.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wpa2/utils/ext_password.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/eap_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_attr_process.o
+  CC esp32_main.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_validate.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_attr_parse.o
+  CC esp32_uart.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_dev_attr.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_common.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_registrar.o
+  CXX error_codes.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_attr_build.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/uuid.o
+  CXX status.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/src/wps/wps_enrollee.o
+  CC cs_crc32.o
+  CC cs_dbg.o
+  CC cs_file.o
+  CC json_utils.o
+  CC cs_rbuf.o
+  CC main.o
+  CC mgos_deps_init.o
+  CC frozen.o
+  CC mgos_i2c_master.o
+  CC esp32_i2c_master.o
+  CC mgos_atca.o
+  CC atca_cfgs.o
+  CC atca_command.o
+  CC atca_device.o
+  CC atca_iface.o
+  CC atca_basic.o
+  CC atca_helpers.o
+  CC mgos_vfs.o
+  CC atca_host.o
+  CC mgos_vfs_dev.o
+  CC mgos_vfs_internal.o
+  CC esp32_fs.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant/libwpa_supplicant.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/wpa_supplicant'
+  CC esp32_vfs_dev_partition.o
+  CC mgos_vfs_lfs.o
+  CC lfs.o
+  CC lfs_util.o
+  CC mgos_vfs_fs_spiffs.o
+  CC spiffs_cache.o
+  CC spiffs_check.o
+  CC spiffs_gc.o
+  CC spiffs_hydrogen.o
+  CC spiffs_nucleus.o
+  CC mgos_core.o
+  CC mos_mjs.o
+  CC mjs.o
+  CC esp32_mjs.o
+  CC mg_rpc.o
+  CC mg_rpc_channel.o
+  CC mg_rpc_channel_http.o
+  CC mgos_service_config.o
+  CC mgos_rpc.o
+  CC mgos_service_filesystem.o
+  CC mgos_rpc_channel_uart.o
+  CC mgos_wifi.o
+  CC mjs_wifi.o
+  CC esp32_wifi.o
+CC /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ffi_exports.o
+  GEN   /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/mg_build_info.c
+  CC mg_build_info.o
+  GEN   /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/build_info.c
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+  CC build_info.o
+AR /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/mosapp/libmosapp.a
+make[1]: Leaving directory '/fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/mosapp'
+LD /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/blink-js.elf
+esptool.py v2.6-beta1
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/ca-bundle/fs/ca.pem -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_bitbang.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_config.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_events.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_gpio.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_http.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_log.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_net.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_sys.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_timer.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/api_uart.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/fs/init.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib/api_dataview.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib/api_file.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/modules/mjs/mjs/lib/api_math.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/i2c/mjs_fs/api_i2c.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/rpc-common/mjs_fs/api_rpc.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/wifi/mjs_fs/api_wifi.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/fs/api_arch_uart.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/deps/mjs/esp32/fs/api_esp32.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs/conf1.json -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs/index.html -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/fs/init.js -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  CP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/gen/conf0.json -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 {bs: 4096, ps: 256, es: 4096} /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fs -> /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/fs.img
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding api_file.js: 2105
+       Adding ca.pem: 25586
+       Adding conf0.json: 1294
+       Adding api_math.js: 1890
+       Adding api_dataview.js: 7433
+       Adding api_wifi.js: 1020
+       Adding api_http.js: 3812
+       Adding api_bitbang.js: 815
+       Adding index.html: 70
+       Adding api_timer.js: 1736
+       Adding api_esp32.js: 460
+       Adding init.js: 306
+       Adding api_config.js: 2170
+       Adding conf1.json: 189
+       Adding api_sys.js: 1652
+       Adding api_arch_uart.js: 1206
+       Adding api_gpio.js: 3571
+       Adding api_log.js: 2005
+       Adding api_events.js: 3857
+       Adding api_net.js: 5122
+       Adding api_uart.js: 5772
+       Adding api_i2c.js: 4880
+       Adding api_rpc.js: 2792
+     FS stats : space total=233681, used=88603, free=145078
+  GEN    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/manifest.json
+  ZIP    /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/fw/blink-js-esp32-last.zip
+     Adding /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/blink-js.bin
+     Adding /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/bootloader.bin
+     Adding /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/fs.img
+     Adding /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/otadata.bin
+     Adding /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/fw_temp/partitions_mgos.bin
+  Built blink-js/esp32 version 1.0 (20190208-102700)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 40m --flash_size detect 0xd000 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/ota_data_initial.bin 0x1000 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/bootloader/bootloader.bin 0x10000 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/blink-js.bin 0x8000 /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/objs/partitions_mgos.bin
+make: Leaving directory '/app'
+Success, built blink-js/esp32 version 1.0 (20190208-102700).
+Firmware saved to /fwbuild-volumes/2.11.0/apps/blink-js/esp32/build_contexts/build_ctx_896967675/build/fw.zip
